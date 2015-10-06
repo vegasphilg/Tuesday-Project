@@ -17,32 +17,40 @@ body {
 .class2 {
   text-align: center;
   color: blue;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .class3 {
   text-align: center;
   color: red;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .class4 {
   text-align: center;
   color: purple;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .class5 {
   text-align: center;
   color: orange;
   font-style: oblique;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .class6 {
   text-align: center;
   color: red;
   font-style: italic;
+}
+
+.class7 {
+text-align: center;
+  color: green;
+  font-style: italic;
+  font-size: 14px;
+
 }
 
 #myotherparagraph {
