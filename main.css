@@ -1,0 +1,57 @@
+body {
+  background: black
+}
+
+#myparagraph {
+  color: gold;
+  font-size: 20px;
+  background-color: black;
+}
+
+.class1 {
+  text-align: center;
+  color: gold;
+  font-size: 24px;
+}
+
+.class2 {
+  text-align: center;
+  color: blue;
+  font-size: 20px;
+}
+
+.class3 {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
+
+.class4 {
+  text-align: center;
+  color: purple;
+  font-size: 16px;
+}
+
+.class5 {
+  text-align: center;
+  color: orange;
+  font-style: oblique;
+  font-size: 14px;
+}
+
+.class6 {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+
+#myotherparagraph {
+  color: red;
+  font-size: 24px;
+  border: 2px solid #000;
+  text-indent: 15px;
+}
+
+#myotherotherparagraph {
+  font-size: 20px;
+}
