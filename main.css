@@ -1,11 +1,13 @@
 body {
-  background: black
+  background: black;
+  
 }
 
 #myparagraph {
-  color: gold;
+  color: black;
   font-size: 20px;
-  background-color: black;
+  font-weight: bold;
+  background-color: gold;
 }
 
 .class1 {
@@ -34,15 +36,16 @@ body {
 
 .class5 {
   text-align: center;
-  color: orange;
+  color: brown;
   font-style: oblique;
   font-size: 16px;
 }
 
 .class6 {
   text-align: center;
-  color: red;
+  color: gold;
   font-style: italic;
+  border: 5px solid gold;
 }
 
 .class7 {
@@ -54,12 +57,37 @@ text-align: center;
 }
 
 #myotherparagraph {
-  color: red;
+  color: gold;
   font-size: 24px;
-  border: 2px solid #000;
+  border: 5px solid gold;
+  border-color: gold;
   text-indent: 15px;
 }
 
 #myotherotherparagraph {
-  font-size: 20px;
+  font-size: 22px;
+  text-align: center;
+  
+}
+
+#myotherotherparagraph a {
+  color: gold;
+}
+
+#myotherparagraph + img {
+  width: 500px;
+  margin-left: 300px;
+  border: 5px solid gold;
+  
+}
+
+.class8 {
+  border-style: solid;
+  border-color: gold;
+}
+
+#yetanotherparagraph {
+  color: gold;
+  font-size: 20px
+  
 }
