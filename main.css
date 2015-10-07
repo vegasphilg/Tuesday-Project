@@ -3,6 +3,17 @@ body {
   
 }
 
+.menu li {
+  color: gold;
+  display: inline;
+  padding-right: 190px;
+}
+
+.menu ul {
+ padding-left: 80px;
+ 
+}
+
 #myparagraph {
   color: black;
   font-size: 20px;
